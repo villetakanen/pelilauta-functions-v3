@@ -1,0 +1,6 @@
+[submodule "pf3-firestore-on-thread-reply"]
+	path = pf3-firestore-on-thread-reply
+	url = https://github.com/villetakanen/pf3-firestore-on-thread-reply.git
+[submodule "pelilauta-schemas"]
+	path = pelilauta-schemas
+	url = https://github.com/villetakanen/pelilauta-schemas.git
